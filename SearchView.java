@@ -84,7 +84,7 @@ public class SearchView extends JFrame {
         tableModel.setRowCount(0);
         
         
-        // Bạn có thể thay thế phần này bằng việc truy xuất dữ liệu từ cơ sở dữ liệu
+        // Thay thế phần này bằng việc truy xuất dữ liệu từ cơ sở dữ liệu
         String[][] dummyData = {
             {"Nguyễn Văn A", "0123456789", "Thao tác tiêm chủng 1"},
             {"Trần Thị B", "0987654321", "Thao tác tiêm chủng 2"},
